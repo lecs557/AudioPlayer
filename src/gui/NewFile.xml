@@ -1,0 +1,8 @@
+
+	<?import javafx.scene.control.*?>
+	<?import javafx.scene.layout.*?>
+	
+
+	<VBox stylesheets="gui/Test.css" fx:id="vbox" prefHeight="250.0" prefWidth="300.0" spacing="10" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="windowCtrl.Controller">
+
+	</VBox>
